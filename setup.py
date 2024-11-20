@@ -1,6 +1,6 @@
 """ A wechat personal account api project
 See:
-https://github.com/why2lyj/ItChat-UOS
+https://github.com/xiaonan05271/ItChat-UOS
 """
 
 from setuptools import setup, find_packages
@@ -21,10 +21,10 @@ setup(
     description='A complete wechat personal account api',
     long_description=long_description,
 
-    url='https://github.com/why2lyj/ItChat-UOS',
+    url='https://github.com/xiaonan05271/ItChat-UOS',
 
-    author='Snow Wang',
-    author_email='admin@farseer.vip',
+    author='Xiaonan',
+    author_email='xiaonan05271@gmail.com',
 
     license='MIT',
 
